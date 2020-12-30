@@ -1,0 +1,100 @@
+.cuerpoRegistro {
+    background-color: #E6F8F7;
+    margin-top: 10px;
+    padding: 30px;
+    font-family: Londrina Solid;
+    border-radius: 20px;
+}
+
+.fondoNewTupper {
+    width: 100%;
+    height: 300px;
+    background-color: #E6F8F7;
+    font-family: Londrina Solid;
+    border-radius: 0 20px 0 0;
+}
+
+.fondoIngredientes {
+    width: 100%;
+    height: 300px;
+    background-color: #E6F8F7;
+    font-family: Londrina Solid;
+    border-radius: 0 0 20px 20px;
+}
+
+.tituloSubirTupper {
+    font-size: 30px;
+    text-align: center;
+    font-family: Londrina Solid;
+}
+
+.textoNewTupper {
+    margin-top: 10px;
+}
+
+.filtros {
+    background-color: #E6F8F7;
+    border-radius: 20px;
+}
+
+.fototupper {
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+}
+
+.precio {
+    font-family: Londrina Solid;
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.alergias {
+    font-family: Londrina Solid;
+    background-color: #E6F8F7;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.boton {
+    background-color: #EE5D6E;
+    border: none;
+    color: #E6F8F7;
+    font-Family: Londrina Solid;
+}
+
+.navbarBgColor {
+    background-color: #EE5D6E;
+}
+
+.tuptok {
+    text-decoration: none;
+    font-family: Londrina Solid;
+}
+
+.distancia {
+    font-family: Londrina Solid;
+}
+
+.ingredientes {
+    font-size: 30px;
+}
+
+.image-upload>input {
+    display: none;
+}
+
+.image-upload img {
+    width: 30px;
+    cursor: hand;
+}
+
+.camera {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.camera:hover {
+    background-color: aqua;
+}
